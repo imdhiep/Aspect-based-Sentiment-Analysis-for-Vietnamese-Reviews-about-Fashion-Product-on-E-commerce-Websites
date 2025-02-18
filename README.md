@@ -2,6 +2,9 @@
 
 This repository contains the implementation of aspect-based learning for Vietnamese comment data. The project explores various machine learning and deep learning approaches to aspect-based sentiment analysis, utilizing both traditional machine learning models and advanced neural network models. Here is a breakdown of the files and components included in this repository.
 
+# For full details, please refer to our paper: [Download the paper](https://github.com/MaiAnhTruong/Feedbacks-based-product-analysis-and-evaluation-system-for-fashion-business-owners/blob/master/Aspect-based%20Sentiment%20Analysis%20for%20Vietnamese%20Reviews%20about%20Fashion%20Product%20on%20E-commerce%20Websites.pdf)
+
+
 ## Project Structure
 
 - `crawl_data.ipynb`: This notebook handles the data crawling process, extracting fashion shop comments from TIKI platform and saving them in a structured format for further analysis.

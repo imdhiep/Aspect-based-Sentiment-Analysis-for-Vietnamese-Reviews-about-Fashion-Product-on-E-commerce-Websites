@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # Aspect-based-sentiment-analysis-for-Vietnamese-fashion-comment
-=======
-# Aspect-Based Learning in Fashion with Vietnamese dataset
 
 This repository contains the implementation of aspect-based learning for Vietnamese comment data. The project explores various machine learning and deep learning approaches to aspect-based sentiment analysis, utilizing both traditional machine learning models and advanced neural network models. Here is a breakdown of the files and components included in this repository.
 
@@ -65,4 +62,3 @@ You can test the models using the `absa-demo.ipynb` notebook to classify aspects
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
->>>>>>> 0a48a34 (Initial commit - Push all files)

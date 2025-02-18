@@ -1,0 +1,13 @@
+pandas
+numpy
+torch
+matplotlib
+pyvi
+transformers
+scikit-learn
+tensorflow
+joblib
+selenium
+undetected-chromedriver
+keras-tuner
+tqdm

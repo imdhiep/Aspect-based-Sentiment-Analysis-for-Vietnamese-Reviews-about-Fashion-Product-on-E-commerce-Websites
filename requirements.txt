@@ -1,13 +1,24 @@
-pandas
-numpy
-torch
-matplotlib
-pyvi
-transformers
-scikit-learn
-tensorflow
-joblib
-selenium
-undetected-chromedriver
-keras-tuner
-tqdm
+# Data manipulation and analysis
+pandas  # Data manipulation and analysis library
+numpy   # Numerical computing library
+
+# Deep Learning frameworks
+torch   # PyTorch deep learning framework
+tensorflow  # TensorFlow deep learning framework
+keras-tuner  # Hyperparameter tuning for Keras models
+
+# Natural Language Processing
+pyvi    # Vietnamese language processing
+transformers  # Hugging Face Transformers for NLP tasks
+
+# Machine Learning
+scikit-learn  # Machine learning algorithms and tools
+joblib   # Pipeline persistence and parallel computing
+
+# Web Scraping
+selenium  # Web browser automation
+undetected-chromedriver  # Undetectable Chrome driver for web scraping
+
+# Visualization and Progress
+matplotlib  # Plotting and visualization
+tqdm   # Progress bar for loops
